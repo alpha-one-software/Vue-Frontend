@@ -32,7 +32,7 @@ app.use(CKEditor);
 app.use(ElementPlus);
 app.use(VueGoogleMaps, {
   load: {
-    key: "AIzaSyDCDe_kzdqziechOJ53yViPLc6hLQbhX1o",
+    key: "",
     libraries: "places",
   },
 });
